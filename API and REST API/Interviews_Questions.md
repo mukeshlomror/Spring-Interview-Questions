@@ -1,6 +1,6 @@
 ## Interview Questions 
 
-1. What is an API and how does it work?
+1. [Link What is an API and how does it work?](https://towardsdatascience.com/what-is-an-api-and-how-does-it-work-1dccd7a8219e)
 2. What is a REST API and how does it differ from other types of APIs?
 3. Can you explain the six constraints of the REST architecture?
 4. What is an endpoint in a REST API?
